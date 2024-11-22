@@ -74,7 +74,7 @@ At a lower level, node can be described as a tool for writing two major types of
 
 What is an "I/O based program"? Here are some common I/O sources:
 
-  - Databases (e.g. MySQL, PostgreSQL, MongoDB, Redis, CouchDB)
+  - Databases (e.g. MariaDB, MySQL, PostgreSQL, MongoDB, Redis, CouchDB)
   - APIs (e.g. Twitter, Facebook, Apple Push Notifications)
   - HTTP/WebSocket connections (from users of a web app)
   - Files (image resizer, video editor, internet radio)
